@@ -8,11 +8,11 @@ Turn materials already added to a ServiceM8 job into a practical shopping list f
 
 ## Release status
 
-**Pre-release — not yet published in the ServiceM8 Add-on Store.**
+**Submitted to the ServiceM8 Add-on Store — Waiting For Review.**
 
-Store preparation is underway. Support details and the privacy policy are published, and demo screenshots have been uploaded to the draft store listing. Final live testing and store submission remain pending.
+Submitted on 26 September 2026. Support details, privacy policy and demo screenshots are included. Public store availability is subject to ServiceM8 approval.
 
-A reported issue with retaining checked and excluded items on some jobs remains under investigation. Cross-device saving has worked on other jobs. If the app reports a save or reload error, refresh and verify the result before relying on it.
+The account owner has confirmed iPhone presentation and retention of ticks and exclusions after reopening and across devices, including the previously affected job. If the app reports a save or reload error, refresh and verify the result before relying on it.
 
 ## Features
 
@@ -80,7 +80,7 @@ Support and privacy: [ian.horne@hireahubby.com.au](mailto:ian.horne@hireahubby.c
 
 [Privacy policy](https://ianhorne73.github.io/shopping-list-by-hps/privacy.html)
 
-The app is free. The draft store listing has all region options enabled.
+The app is free. The submitted store listing has all region options enabled.
 
 Do not post customer details, job addresses, passwords or access tokens in public GitHub issues.
 
