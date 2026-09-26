@@ -1,88 +1,48 @@
 # Shopping List by HPS
 
-<img src="./shopping-list-icon.png" alt="Shopping List by HPS icon" width="128" height="128">
+<img src="./shopping-list-icon.png" alt="Shopping List by HPS" width="128" height="128">
 
-Turn materials already added to a ServiceM8 job into a practical shopping list for your next supplies run.
+**Your job materials, ready for your next supplies run.**
 
-**[Visit the help website](https://ianhorne73.github.io/shopping-list-by-hps/)**
+Shopping List by HPS turns the materials already added to a ServiceM8 job into an easy-to-use shopping list. See what you need, tick items as you collect them, and keep track of what’s left.
 
-## Release status
+**Free to use · Online Dashboard and iPhone/iPad · Coming soon to the ServiceM8 Add-on Store**
 
-**Submitted to the ServiceM8 Add-on Store — Waiting For Review.**
+[Help and getting started](https://ianhorne73.github.io/shopping-list-by-hps/) · [Contact support](mailto:ian.horne@hireahubby.com.au)
 
-Version **1.18** was submitted on **26 September 2026**. Support details, privacy policy and four screenshots using fictional demo data are included. The app is **free**, with **all store regions selected**. It is awaiting ServiceM8 approval and is not yet publicly released.
+## Make your next materials run easier
 
-The account owner has confirmed iPhone presentation and retention of ticks and exclusions after reopening and across devices, including the previously affected job. If the app reports a save or reload error, refresh and verify the result before relying on it.
+- **Know what to buy.** View product descriptions, quantities and item codes in one place.
+- **Tick it off.** Collected items stay on the list with a strikethrough, so you can see your progress.
+- **Skip what you already have.** Exclude items you don’t need to buy and restore them whenever needed.
+- **Keep each job organised.** Every list belongs to its own job.
+- **Take a copy with you.** Copy the remaining items or print a list with the job number and address.
+- **Keep your team up to date.** Refresh to see saved changes from other devices.
 
-## Features
+## Get started
 
-- View material descriptions, quantities and catalogue item codes where available.
-- Tick collected items and keep them visible with a strikethrough.
-- Exclude services or items already on hand, then restore them from the Excluded view.
-- Copy outstanding materials into a text shopping list.
-- Print the list with its job number and address.
-- Automatically hide descriptions containing the whole word “labour” or “labor”.
-- Open a separate shopping list for each job.
+Once the add-on is activated in your ServiceM8 account:
 
-## Where it works
+1. Open a job.
+2. Choose **More → Shopping List by HPS**.
+3. Review the materials and tick items as you collect them.
 
-| Platform | How the list opens |
-| --- | --- |
-| ServiceM8 Online Dashboard | In a pop-up over the job card |
-| ServiceM8 iPhone/iPad app | Through a job action that opens a web page |
+On iPhone or iPad, the job action opens the list in a web page. You can add it to your favourites using **Edit Actions**. An internet connection is required.
 
-Internet access is required. The mobile view is a web page, not a native checklist screen. Clipboard and printing options depend on the device and browser.
+## A few useful tips
 
-## Using the app
+Quantities come from the materials on your job, so check supplies you already have before shopping. Descriptions containing “labour” or “labor” are hidden automatically; use **Exclude** for other services or items you don’t need.
 
-After your administrator activates the add-on:
+If an item’s description, quantity or catalogue reference changes, check it again—its shopping status resets for review. Refresh before making updates, and coordinate with your team when shopping for the same job.
 
-1. Open a job in ServiceM8.
-2. Choose **More → Shopping List by HPS**. On iPhone/iPad, use Edit Actions if you need to add it to your job-action favourites.
-3. Review the materials and quantities.
-4. Tick items as collected, or use **Exclude** for items you do not need to buy.
-5. Use **Refresh** to retrieve saved changes from other devices.
-6. Choose **Copy list** or **Print** when needed.
+[See the full help guide](https://ianhorne73.github.io/shopping-list-by-hps/) for copying, printing and troubleshooting.
 
-No separate app username or password is required.
+## Need a hand?
 
-## Important behaviour
+Email [ian.horne@hireahubby.com.au](mailto:ian.horne@hireahubby.com.au).
 
-- Quantities come from the job’s material lines; stock on hand is not deducted.
-- Zero, negative and invalid quantities are omitted.
-- Labour filtering uses description text. Other service lines may need to be excluded manually.
-- Changing a material’s description, quantity or catalogue reference resets its shopping status for review.
-- Coordinate simultaneous edits to the same job: the latest save can replace concurrent changes.
-- Shopping status is stored separately in ServiceM8 add-on storage. The app does not change quotes, invoices, source job materials or inventory levels.
-
-See the [help website](https://ianhorne73.github.io/shopping-list-by-hps/) for troubleshooting and workflow details.
-
-## This repository
-
-This public repository hosts the app’s artwork and help website. It does not contain the add-on’s backend source, credentials, customer records or job data.
-
-| File | Purpose |
-| --- | --- |
-| [index.html](./index.html) | GitHub Pages help website |
-| [privacy.html](./privacy.html) | Published developer privacy policy |
-| [shopping-list-icon.png](./shopping-list-icon.png) | Approved app and menu icon |
-| [README.md](./README.md) | App overview and repository guide |
-
-### Public links
-
-- Website: https://ianhorne73.github.io/shopping-list-by-hps/
-- Direct icon: https://raw.githubusercontent.com/Ianhorne73/shopping-list-by-hps/main/shopping-list-icon.png
-
-## Support and privacy
-
-Operated by **Horne Property Services Pty Ltd**.
-
-Support and privacy: [ian.horne@hireahubby.com.au](mailto:ian.horne@hireahubby.com.au)
+Shopping List by HPS is provided by **Horne Property Services Pty Ltd**.
 
 [Privacy policy](https://ianhorne73.github.io/shopping-list-by-hps/privacy.html)
 
-The app is free. The submitted store listing has all region options enabled.
-
-Do not post customer details, job addresses, passwords or access tokens in public GitHub issues.
-
-Shopping List by HPS is an independent add-on. It is not developed or supported by ServiceM8.
+An independent add-on for ServiceM8.
