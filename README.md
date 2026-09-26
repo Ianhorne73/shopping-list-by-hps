@@ -10,7 +10,7 @@ Turn materials already added to a ServiceM8 job into a practical shopping list f
 
 **Submitted to the ServiceM8 Add-on Store — Waiting For Review.**
 
-Submitted on 26 September 2026. Support details, privacy policy and demo screenshots are included. Public store availability is subject to ServiceM8 approval.
+Version **1.18** was submitted on **26 September 2026**. Support details, privacy policy and four screenshots using fictional demo data are included. The app is **free**, with **all store regions selected**. It is awaiting ServiceM8 approval and is not yet publicly released.
 
 The account owner has confirmed iPhone presentation and retention of ticks and exclusions after reopening and across devices, including the previously affected job. If the app reports a save or reload error, refresh and verify the result before relying on it.
 
@@ -64,6 +64,7 @@ This public repository hosts the app’s artwork and help website. It does not c
 | File | Purpose |
 | --- | --- |
 | [index.html](./index.html) | GitHub Pages help website |
+| [privacy.html](./privacy.html) | Published developer privacy policy |
 | [shopping-list-icon.png](./shopping-list-icon.png) | Approved app and menu icon |
 | [README.md](./README.md) | App overview and repository guide |
 
