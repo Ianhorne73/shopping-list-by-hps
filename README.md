@@ -10,7 +10,7 @@ Turn materials already added to a ServiceM8 job into a practical shopping list f
 
 **Pre-release — not yet published in the ServiceM8 Add-on Store.**
 
-Store preparation is underway. Public support details, the developer privacy policy, store screenshots and final live testing are still pending.
+Store preparation is underway. Support details and the privacy policy are published, and demo screenshots have been uploaded to the draft store listing. Final live testing and store submission remain pending.
 
 A reported issue with retaining checked and excluded items on some jobs remains under investigation. Cross-device saving has worked on other jobs. If the app reports a save or reload error, refresh and verify the result before relying on it.
 
@@ -74,7 +74,13 @@ This public repository hosts the app’s artwork and help website. It does not c
 
 ## Support and privacy
 
-During pre-release, contact the administrator who supplied the add-on. A monitored public support email and developer privacy policy will be added before store release.
+Operated by **Horne Property Services Pty Ltd**.
+
+Support and privacy: [ian.horne@hireahubby.com.au](mailto:ian.horne@hireahubby.com.au)
+
+[Privacy policy](https://ianhorne73.github.io/shopping-list-by-hps/privacy.html)
+
+The app is free. The draft store listing has all region options enabled.
 
 Do not post customer details, job addresses, passwords or access tokens in public GitHub issues.
 
